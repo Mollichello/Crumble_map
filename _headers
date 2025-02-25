@@ -1,4 +1,5 @@
 /*
-  X-Frame-Options: DENY
-  X-Content-Type-Options: nosniff
-  Referrer-Policy: no-referrer
+  Content-Encoding: gzip
+  Content-Type: application/json
+  Cache-Control: max-age=3600
+
