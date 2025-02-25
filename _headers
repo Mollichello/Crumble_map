@@ -1,4 +1,11 @@
-/maps/overworld/textures.json.gz
+/maps/overworld/*
   Content-Encoding: gzip
   Content-Type: application/json
 
+/maps/nether/*
+  Content-Encoding: gzip
+  Content-Type: application/json
+
+/maps/end/*
+  Content-Encoding: gzip
+  Content-Type: application/json
