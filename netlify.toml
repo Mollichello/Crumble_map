@@ -1,0 +1,10 @@
+[[headers]]
+for = "/maps/overworld/textures.json.gz"
+  [headers.values]
+  Content-Encoding = "gzip"
+  Content-Type = "application/json"
+
+[[headers]]
+for = "/maps/overworld/settings.json"
+  [headers.values]
+  Content-Type = "application/json"
